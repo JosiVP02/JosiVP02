@@ -15,37 +15,37 @@ I stand out for my ability to **adapt to different technologies and domains**, s
 
 ---
 
-## 🧠 What I Can Do
-
-* Develop fullstack applications (frontend + backend + database)
-* Design and optimize relational databases
-* Build REST APIs and integrate systems
-* Create desktop applications with modern technologies
-* Work with agile methodologies (Scrum)
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 
-Java • Python • C# • JavaScript • SQL • PHP • C/C++
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,php,c,cpp" />
+</p>
 
 ### ⚙️ Frontend
 
-React.js • HTML • CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### 🔧 Backend
 
-ASP.NET Core • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
 
 ### 🗄 Databases
 
-SQL Server • SQLite • Oracle
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ### 🧰 Tools
 
-Git • GitHub • Docker • Postman • Visual Studio • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+</p>
 
 ---
 
