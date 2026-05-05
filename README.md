@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Fullstack+Developer;Web+%7C+Desktop+%7C+Databases" />
+# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Software+Developer;Web+%7C+Desktop+%7C+Databases" />
 
 🎓 **Business Informatics Student (Advanced)**
 💻 **Software Developer** | Web • Desktop • Databases
