@@ -1,21 +1,13 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Fullstack+Developer;React+%7C+.NET+%7C+SQL" />
+# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Fullstack+Developer;React+%7C+.NET+%7C+SQL" />
 
 ---
 
 ## 👨‍💻 About Me
 
-```js
-const josimar = {
-  role: "Fullstack Developer",
-  location: "Costa Rica",
-  focus: ["Web Applications", "Desktop Apps", "Databases"],
-  stack: ["React", ".NET", "SQL Server", "SQLite"],
-  strengths: ["Problem Solving", "Adaptability", "Teamwork"],
-};
-```
+I am a **Fullstack Developer** with experience building web and desktop applications, as well as designing efficient database systems.
 
-I build scalable applications and solve real-world problems through technology.
-Experienced across **frontend, backend and database design**, with the ability to quickly adapt to new tools and domains.
+I focus on creating solutions that **solve real-world problems**, improving processes and data management.
+I am adaptable, detail-oriented, and comfortable working across different technologies and domains.
 
 ---
 
@@ -31,16 +23,9 @@ Experienced across **frontend, backend and database design**, with the ability t
 
 ### 📦 Inventory & Asset Management System
 
-```js
-{
-  type: "Desktop Application",
-  tech: ["React", "Tauri", "SQLite"],
-  impact: {
-    manualProcesses: "-40%",
-    traceability: "+30%"
-  }
-}
-```
+* Desktop application built with **React, Tauri and SQLite**
+* Reduced manual processes by **40%**
+* Improved data traceability by **30%**
 
 🔗 [View Project](#)
 
@@ -48,52 +33,35 @@ Experienced across **frontend, backend and database design**, with the ability t
 
 ### 🌐 Asset Management Web App
 
-```js
-{
-  type: "Fullstack Web App",
-  tech: ["React", "ASP.NET Core", "SQL Server"],
-  impact: {
-    updateTime: "-35%",
-    accuracy: "+20%"
-  }
-}
-```
+* Fullstack application using **React, ASP.NET Core and SQL Server**
+* REST API integration and database design
+* Reduced update time by **35%**
+* Improved data accuracy by **20%**
 
 🔗 [View Project](#)
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Strengths
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JosiVP02&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosiVP02&theme=tokyonight" />
-</p>
+* Problem-solving mindset
+* Adaptability to new technologies
+* Teamwork and communication
+* Focus on efficiency and real impact
 
 ---
 
-## ⚡ Current Focus
+## 🎯 Current Focus
 
-```js
-const currentGoals = [
-  "Improve backend architecture skills",
-  "Learn cloud fundamentals",
-  "Build scalable production-ready systems"
-];
-```
+* Improving backend architecture
+* Learning cloud fundamentals
+* Building scalable applications
 
 ---
 
 ## 📫 Contact
 
-```js
-{
-  email: "josimar.paniagua02@gmail.com",
-  github: "github.com/JosiVP02"
-}
-```
+📧 [josimar.paniagua02@gmail.com](mailto:josimar.paniagua02@gmail.com)
+💼 https://github.com/JosiVP02
 
 ---
