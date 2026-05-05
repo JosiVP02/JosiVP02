@@ -22,30 +22,43 @@ I stand out for my ability to **adapt to different technologies and domains**, s
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cs,js,php,c,cpp" />
 </p>
+Java • Python • C# • JavaScript • PHP • C • C++  
+
+---
 
 ### ⚙️ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
+React • HTML • CSS  
+
+---
 
 ### 🔧 Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
+ASP.NET Core • REST APIs  
+
+---
 
 ### 🗄 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
+SQL Server • SQLite • Oracle  
+
+---
 
 ### 🧰 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
 </p>
+Git • GitHub • Docker • Postman • VS Code • Visual Studio  
 
 ---
 
@@ -86,9 +99,9 @@ I stand out for my ability to **adapt to different technologies and domains**, s
 ## 🧩 Strengths
 
 * 🔍 Problem-solving mindset
-* ⚡ Adaptability to new technologies and environments
+* ⚡ Adaptability to new technologies
 * 🤝 Teamwork and communication
-* 📊 Focus on efficiency and real impact
+* 📊 Focus on real impact
 
 ---
 
