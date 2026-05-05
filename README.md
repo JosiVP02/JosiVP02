@@ -1,14 +1,14 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Fullstack+Developer;Web+%7C+Desktop+%7C+Databases" />
 
 🎓 **Business Informatics Student (Advanced)**
-💻 **Fullstack Developer** | Web • Desktop • Databases
+💻 **Software Developer** | Web • Desktop • Databases
 📍 Costa Rica
 
 ---
 
 ## 🚀 About Me
 
-I am a **Fullstack Developer** with a strong foundation in building scalable and efficient software solutions.
+I am a **Software Developer** with a strong foundation in building scalable and efficient software solutions.
 I have experience developing **web and desktop applications**, designing **relational databases**, and working across the full development lifecycle.
 
 I stand out for my ability to **adapt to different technologies and domains**, solve complex problems, and deliver solutions that improve real-world processes.
