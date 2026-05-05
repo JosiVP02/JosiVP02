@@ -71,7 +71,7 @@ Git • GitHub • Docker • Postman • VS Code • Visual Studio
 * Improved data traceability by **30%**
 * Includes reporting (PDF & Excel)
 
-🔗 [View Project](#)
+
 
 ---
 
@@ -82,7 +82,7 @@ Git • GitHub • Docker • Postman • VS Code • Visual Studio
 * Reduced update time by **35%**
 * Improved data accuracy by **20%**
 
-🔗 [View Project](#)
+
 
 ---
 
@@ -92,7 +92,7 @@ Git • GitHub • Docker • Postman • VS Code • Visual Studio
 * Advanced SQL queries and stored procedures
 * Reduced reporting time by **30%**
 
-🔗 [View Project](#)
+
 
 ---
 
