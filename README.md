@@ -1,103 +1,99 @@
-# 👋 Hi, I'm Josimar Vallejos
-
-🎓 Business Informatics Student (Advanced)
-💻 Fullstack Developer | Web • Desktop • Databases
-📍 Costa Rica
+# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hi+I'm+Josimar+Vallejos;Fullstack+Developer;React+%7C+.NET+%7C+SQL" />
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a fullstack developer with a strong foundation in building scalable and efficient software solutions.
-I have experience developing **web and desktop applications**, designing **relational databases**, and working across the full development lifecycle.
+```js
+const josimar = {
+  role: "Fullstack Developer",
+  location: "Costa Rica",
+  focus: ["Web Applications", "Desktop Apps", "Databases"],
+  stack: ["React", ".NET", "SQL Server", "SQLite"],
+  strengths: ["Problem Solving", "Adaptability", "Teamwork"],
+};
+```
 
-I stand out for my ability to **adapt to different technologies and domains**, solve complex problems, and deliver solutions that improve real-world processes.
-
----
-
-## 🧠 What I Can Do
-
-* Develop fullstack applications (frontend + backend + database)
-* Design and optimize relational databases
-* Build REST APIs and integrate systems
-* Create desktop applications with modern technologies
-* Work with agile methodologies (Scrum)
+I build scalable applications and solve real-world problems through technology.
+Experienced across **frontend, backend and database design**, with the ability to quickly adapt to new tools and domains.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-Java • Python • C# • JavaScript • SQL • PHP • C/C++
-
-**Frontend:**
-React.js • HTML • CSS
-
-**Backend:**
-ASP.NET Core • REST APIs
-
-**Databases:**
-SQL Server • SQLite • Oracle
-
-**Tools:**
-Git • GitHub • Docker • Postman • Visual Studio • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,js,cs,python,java,php,mysql,sqlite,docker,git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📦 Inventory & Asset Management System (Desktop)
+### 📦 Inventory & Asset Management System
 
-* Built with React, Tauri and SQLite
-* Reduced manual processes by **40%**
-* Improved data traceability by **30%**
-* Includes reporting (PDF & Excel)
+```js
+{
+  type: "Desktop Application",
+  tech: ["React", "Tauri", "SQLite"],
+  impact: {
+    manualProcesses: "-40%",
+    traceability: "+30%"
+  }
+}
+```
 
----
-
-### 🌐 Asset Management Web System
-
-* Fullstack app with React + ASP.NET Core + SQL Server
-* CRUD operations, REST API and database design
-* Reduced update time by **35%**
-* Improved data accuracy by **20%**
-
----
-
-### 🗄 Relational Database Design
-
-* Database modeling with normalization and integrity
-* Advanced SQL queries and stored procedures
-* Reduced reporting time by **30%**
+🔗 [View Project](#)
 
 ---
 
-## 🧩 Strengths
+### 🌐 Asset Management Web App
 
-* 🔍 Problem-solving mindset
-* ⚡ Adaptability to new technologies and environments
-* 🤝 Teamwork and communication
-* 📊 Focus on efficiency and real impact
+```js
+{
+  type: "Fullstack Web App",
+  tech: ["React", "ASP.NET Core", "SQL Server"],
+  impact: {
+    updateTime: "-35%",
+    accuracy: "+20%"
+  }
+}
+```
+
+🔗 [View Project](#)
 
 ---
 
-## 📈 Currently Learning
+## 📊 GitHub Analytics
 
-* Software architecture
-* Advanced backend development
-* Cloud fundamentals
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JosiVP02&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosiVP02&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```js
+const currentGoals = [
+  "Improve backend architecture skills",
+  "Learn cloud fundamentals",
+  "Build scalable production-ready systems"
+];
+```
 
 ---
 
 ## 📫 Contact
 
-📧 [josimar.paniagua02@gmail.com](mailto:josimar.paniagua02@gmail.com)
-💼 GitHub: https://github.com/JosiVP02
-
----
-
-## 🎯 Career Goal
-
-To obtain a **professional internship or junior developer position** where I can contribute with my technical skills, continue learning, and grow as a software engineer while delivering high-impact solutions.
+```js
+{
+  email: "josimar.paniagua02@gmail.com",
+  github: "github.com/JosiVP02"
+}
+```
 
 ---
